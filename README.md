@@ -1,2 +1,2 @@
 # practice
-My practice repositry
+My practice doing work
